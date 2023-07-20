@@ -1,0 +1,8 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+Django = "==4.2.1"
+SomeUnreachablePkgToMimicPrivateDependency123123123123123 = "==4.2.3"
